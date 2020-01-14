@@ -11,6 +11,7 @@
       "platform.stdio-baud-rate": 115200,
       "platform.default-serial-baud-rate": 115200,
       "rtos.main-thread-stack-size": 32768,
+      "cordio.max-connections": 8,
       "target.mbed_app_start": "0x10000"
     }
   }
